@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Devros123
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @Devros123.  Devros was taken :(
 - 🌱 I’m currently learning V  see vlang.io
 
 
